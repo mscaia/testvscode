@@ -31,4 +31,5 @@ fig.tight_layout()
 plt.show()
 
 def fucntion():
+    abcdefgtop =10
     return A 
