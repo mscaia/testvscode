@@ -1,0 +1,8 @@
+tqdm
+pygal_maps_fr
+pooch
+pandas
+numpy
+pygal
+setuptools
+lxml
